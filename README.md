@@ -1,7 +1,7 @@
 # About Me
 Apacionado sobre las tecnologias y la programación:
 - <strong>Estudiante de Lic en Sistemas</strong> en Universida Nacional De Entre Ríos (UNER).
-- <strong>Estudiante de Tecnicatura en Desarrollo Web</strong> en Universida Nacional De Entre Ríos (UNER).
+- <strong>Técnico en Desarrollo Web</strong> - Universida Nacional De Entre Ríos (UNER).
 - <strong>Empleado como FullStack Developer</strong> en Telecom AR
 
 ### Redes Sociales
